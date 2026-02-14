@@ -1,7 +1,9 @@
 # 🍄 Mushroom Classifier
 
-Live: https://hiteshhyadav-mushroom-classifier-app-shqvhz.streamlit.app/
 ---
+Live: https://hiteshhyadav-mushroom-classifier-app-shqvhz.streamlit.app/
+
+
 A machine learning project that predicts whether a mushroom is **edible** or **poisonous** based on its features. The project uses Python and a classic mushroom dataset, and includes a simple web interface built with Flask.
 
 ---
